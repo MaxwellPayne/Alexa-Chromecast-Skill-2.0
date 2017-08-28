@@ -3,4 +3,4 @@ miniupnpc==1.9
 PyChromecast==0.8.1
 requests==2.18.1
 zeroconf==0.19.1
-youtube-dl==2017.1.25
+youtube-dl==2017.8.27.1
